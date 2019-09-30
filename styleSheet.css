@@ -1,0 +1,34 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #1f4ca1;
+    margin: 10px;
+
+}
+
+.headings {
+    font-size: 32px;
+    color: #0b0e42;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+body {
+    background-image: url("https://mgo.azureedge.net/cloudcache/7/c/2/f/3/4/7c2f345bdfcadb8a3faf483ebaa2e9aea712bbdb.jpg");
+    background-size: cover;
+}
+
+li {
+    font-size: 18px;
+}
+
+footer {
+    border: #0b0e42 3px solid;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}
